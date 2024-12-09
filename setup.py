@@ -114,7 +114,7 @@ extra_deps['peft'] = [
 ]
 
 extra_deps['openai'] = [
-    'openai==1.3.8',
+    'openai==1.57.1',
     'tiktoken>=0.4,<0.8.1',
 ]
 
